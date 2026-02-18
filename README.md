@@ -13,7 +13,6 @@ My academic journey reflects a strong upward trajectory as I moved into speciali
 - Year 2 GPA: 3.0 — Foundational studies and core requirements.
 - Year 3 GPA: 4.0 — Total mastery of Advanced data Science and Mathematics coursework.
 - Year 4 & 5: In Progress / Future Enrollment.
-Key Takeaway: My Year 3 performance (4.0 GPA) demonstrates my ability to excel when immersed in high-level technical and theoretical challenges.
 
 # Subject Highlights (High Distinction)
 I consistently achieve top-tier marks (85%+) in subjects critical to Software Engineering and Data Science:
