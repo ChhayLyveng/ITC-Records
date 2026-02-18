@@ -18,9 +18,9 @@ My academic journey reflects a strong upward trajectory as I moved into speciali
 I consistently achieve top-tier marks (85%+) in subjects critical to Software Engineering and Data Science:
 | Category|	Courses|	Average Score|
 | :--- | :--- | :--- |
-|Logic & Computing	|Informatics, Computer Architecture, OOP|	97.4|
-|Data & Algorithms|	Data Structures I & II,Introduction and Programming for Data Science	|85.5295|
-|Mathematics|	Calculus I/II/III, Linear Algebra, Discrete Math,Optimization ,Statistics,Differential Equations and Probability|	88.79|
+|Logic & Computing	|Informatics, Computer Architecture & OOP|	97.4|
+|Data & Algorithms|	Data Structures I & II, Introduction to Data Science and Programming & Data Science	|85.5295|
+|Mathematics|	Calculus I/II/III, Linear Algebra, Discrete Math,Optimization ,Statistics,Differential Equations & Probability|	88.79|
 
 
 # Technical Excellence (Programming & Data)
