@@ -1,5 +1,5 @@
 # Academic Records & Coursework
-This repository contains my university score records, documenting my academic progression with a primary focus on Computer Science, Data Science, and Advanced Mathematics.
+This repository contains my university score records, documenting my academic progression with a primary focus on Data Science, and Advanced Mathematics.
 
 # Academic Profile
 - Specialization: Data Scienece
